@@ -15,3 +15,5 @@ The project is composed of three layers:
 - The presentation or view layer
 - The model layer
 - The data persistence layer.
+
+![](img/MVC.png)
