@@ -12,8 +12,8 @@ Run the project with the Java IDE and the UI will appear. The objective of the p
 ## Structure of the project
 
 The project is composed of three layers:
-- The presentation or view layer
-- The model layer
-- The data persistence layer.
+- The presentation layer (controller+view)
+- The business layer (model)
+- The data access layer (DAO)
 
-![](img/MVC.png)
+![](img/3tier.png)
